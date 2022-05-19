@@ -1,12 +1,10 @@
 ---
-layout: single
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to:
+  - https://aurore54f.github.io/cv/CV_Fass.pdf
 ---
-
-You can download my CV [clicking here](https://deangelisa.github.io/files/CV_DeAngelis.pdf).  
-
-<embed src="{{ site.baseurl }}/files/CV_DeAngelis.pdf" width="600" height="700" type='application/pdf'>
