@@ -9,4 +9,4 @@ redirect_from:
 
 You can download my CV [clicking here](https://deangelisa.github.io/files/CV_DeAngelis.pdf).  
 
-<embed src="{{ site.baseurl }}/files/CV_DeAngelis.pdf" width="600" height="1200" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/CV_DeAngelis.pdf" width="600" height="700" type='application/pdf'>
