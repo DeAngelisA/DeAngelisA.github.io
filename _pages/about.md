@@ -15,7 +15,7 @@ My research lies at the intersection of political methodology, computational soc
 
 I am a passionate teacher in statistics, quantitative research methods and computational social science techniques, and a [certified RStudio](https://education.rstudio.com/trainers/) tidyverse instructor. I am keeping a running list of my teaching [at this link](https://docs.google.com/spreadsheets/d/1lgZFwmryGN5Bnr1jvxrEKB4W0sXWN26OH1xU_cDmWTQ/edit?usp=sharing) with *syllabi* and evaluations. I am happy to share teaching materials upon request. 
 
-I have recently edited a special issue on ["Political Misinformation in the Digital Age during a Pandemic: Partisanship, Propaganda, and Democratic Decision-making"](https://www.frontiersin.org/research-topics/16048/political-misinformation-in-the-digital-age-during-a-pandemic-partisanship-propaganda-and-democratic) at Frontiers in Political Science. All papers are open access and an e-book will soon be released. 
+I have recently edited a [special issue](https://www.frontiersin.org/research-topics/16048/political-misinformation-in-the-digital-age-during-a-pandemic-partisanship-propaganda-and-democratic) titled "Political Misinformation in the Digital Age during a Pandemic: Partisanship, Propaganda, and Democratic Decision-making", at Frontiers in Political Science. All papers are open access and an e-book will soon be released. 
 
 My monograph "Leaders without Partisans: Dealignment, Media Change, and the Personalization of Politics", co-authored with Diego Garzia and Frederico Ferreira da Silva and forthcoming at ECPR Press, can be pre-ordered on [Amazon](https://www.amazon.com/Leaders-without-Partisans-Dealignment-Personalization/dp/1538156768).
 
