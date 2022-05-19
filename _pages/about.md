@@ -18,3 +18,4 @@ I am a passionate teacher in statistics, quantitative research methods and compu
 I have recently edited a special issue on ["Political Misinformation in the Digital Age during a Pandemic: Partisanship, Propaganda, and Democratic Decision-making"](https://www.frontiersin.org/research-topics/16048/political-misinformation-in-the-digital-age-during-a-pandemic-partisanship-propaganda-and-democratic) at Frontiers in Political Science. All papers are open access and an e-book will soon be released. 
 
 My monograph "Leaders without Partisans: Dealignment, Media Change, and the Personalization of Politics", co-authored with Diego Garzia and Frederico Ferreira da Silva and forthcoming at ECPR Press, can be pre-ordered on [Amazon](https://www.amazon.com/Leaders-without-Partisans-Dealignment-Personalization/dp/1538156768).
+
