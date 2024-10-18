@@ -18,8 +18,6 @@ My research moved from public opinion and comparative political behavior into di
 My work on the long-term dynamics in comparative political behavior with Diego Garzia and Frederico Ferreira da Silva is titled "Leaders without Partisans: Dealignment, Media Change, and the Personalization of Politics" and is available from ECPR Press / Rowman & Littlefield. 
 I have also edited a special issue titled "Political Misinformation in the Digital Age during a Pandemic: Partisanship, Propaganda, and Democratic Decision-making" at Frontiers in Political Science. All papers are open access the resulting e-book is available [here](https://www.frontiersin.org/research-topics/16048/political-misinformation-in-the-digital-age-during-a-pandemic-partisanship-propaganda-and-democratic).
 
-y research has evolved from exploring public opinion and comparative political behavior to focusing on digital democracy, political misinformation, and the use of computational methods in social research. I investigate key questions such as: How do misinformation and algorithms shape public opinion? How can digital tools enhance democratic participation and political accountability?
-
 I am a [certified RStudio](https://education.rstudio.com/trainers/) instructor and passionate teacher in statistics, quantitative research methods, and computational social science techniques. The courses I teach are listed in the [Teaching](https://deangelisa.github.io/teaching/) section. 
 I am happy to share teaching materials upon request. 
 
