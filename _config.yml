@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Andrea De Angelis"
+  name             : "Andrea De Angelis, Ph.D."
   avatar           : "profile.png"
   bio              : "Political scientist. My research interests include computational social sciensces, comparative politics, political communication, and quantitative research methods methodology."
-  location         : "Luzern, Switzerland"
+  location         : "Milan, Italy"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=PcvMZMIAAAAJ"
-  email            : "andrea.deangelis@unilu.ch"
+  email            : "andrea.deangelis@unimi.it"
   uri              :
   bitbucket        :
   codepen          :
