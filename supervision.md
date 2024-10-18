@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /supervision/
 title: "Supervision"
 excerpt: "Supervision"
 author_profile: true
