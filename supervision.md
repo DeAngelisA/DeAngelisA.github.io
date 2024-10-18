@@ -2,6 +2,7 @@
 permalink: /supervision/
 title: "Supervision"
 excerpt: "Supervision"
+layout: single
 author_profile: true
 redirect_from:
   - /supervision/
