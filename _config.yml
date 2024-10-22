@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Andrea De Angelis"
+title                    : "Andrea De Angelis, Ph.D."
 title_separator          : "-"
 name                     : &name "Andrea De Angelis"
-description              : &description "Senior researcher and lecturer at University of Lucerne"
+description              : &description "Assistant Professor (Tenure Track) University of Milan"
 url                      : https://deangelisa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "deangelisa/deangelisa.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Andrea De Angelis, Ph.D."
   avatar           : "profile.png"
-  bio              : "Political scientist. My research interests include computational social sciensces, comparative politics, political communication, and quantitative research methods methodology."
+  bio              : "Political Science, Computational Social Sciences, and Quantitative Research Methods."
   location         : "Milan, Italy"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=PcvMZMIAAAAJ"
