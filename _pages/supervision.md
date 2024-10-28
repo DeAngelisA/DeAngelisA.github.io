@@ -1,12 +1,8 @@
 ---
-permalink: /supervision/
-title: "Supervision"
-excerpt: "Supervision"
 layout: single
+title: "Supervision"
+permalink: /supervision/
 author_profile: true
-redirect_from:
-  - /supervision/
-  - /supervision.html
 ---
 
 <h2>Supervision Opportunities for Master’s Students</h2>
