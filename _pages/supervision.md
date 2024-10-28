@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Supervision"
-permalink: /supervision/
+permalink: /supervision.html
 author_profile: true
 ---
 
