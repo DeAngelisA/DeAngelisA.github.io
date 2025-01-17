@@ -55,7 +55,7 @@ Avoid redundancy—most points should be stated only once.
 We first meet to discuss your research plan and the argument. Once we agree, I will give you green light to conduct the analyses and write the first draft. 
 I will provide feedback on the first draft and we will meet again to discuss it.
 Then, you proceed with the second draft. 
-If you work at this paper full time, you may expect to conclude the process in 12 weeks from the moment you have the idea and if the analysis is not too complex.
+If you work at this paper full time, if the analysis is not too complex, you may expect to conclude the process in 12 weeks from the moment you have the idea.
 
 <h2>Developing good research questions and arguments</h2>
 A paper should have: 1. a valid and relevant research question; 2. a clear, specific, and detailed argument (or set of arguments) addressing it. 
