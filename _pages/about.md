@@ -21,4 +21,4 @@ I have also edited a special issue titled "Political Misinformation in the Digit
 I am a [certified RStudio](https://education.rstudio.com/trainers/) instructor and passionate teacher in statistics, quantitative research methods, and computational social science techniques. The courses I teach are listed in the [Teaching](https://deangelisa.github.io/teaching/) section. 
 I am happy to share teaching materials upon request. 
 
-Are you a Master student at the University of Milan and you are considering me as your thesis supervisor? [Click here for research topics and application details](https://deangelisa.github.io/supervision.html).
+Are you a PhD or Master student considering me as your thesis supervisor? [Click here](https://deangelisa.github.io/supervision.html) for the research topics I am open to supervise, tips, and application details.
