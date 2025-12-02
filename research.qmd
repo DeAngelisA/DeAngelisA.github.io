@@ -1,0 +1,65 @@
+---
+title: "Research"
+---
+
+My research focuses on **digital democracy**, **misinformation**, and **computational methods**. Below is a selection of my work.
+
+## Featured Research
+
+::: {.pub-card}
+[Political Misinformation in the Digital Age During a Pandemic]{.pub-title}
+<div class="pub-authors">**De Angelis, A.**, Farhart, C. E., Merkley, E., Stecula, D. A., eds. (2022)</div>
+<div class="pub-journal">Frontiers Media SA</div>
+[Open Access]{.badge-custom .badge-gold}
+:::
+
+::: {.pub-card}
+[Leaders without Partisans: Dealignment, Media Change, and the Personalization of Politics]{.pub-title}
+<div class="pub-authors">Garzia, D., da Silva, F., and **De Angelis, A.** (2021)</div>
+<div class="pub-journal">Rowman & Littlefield/ECPR Press</div>
+:::
+
+::: {.pub-card}
+[Panem et Circenses: Removing Political News to Generate Electoral Support]{.pub-title}
+<div class="pub-authors">**De Angelis, A.** and Vecchiato, A. (2024)</div>
+<div class="pub-journal">Italian Political Science Review, 54(2): 119-137</div>
+[Sartori Prize 2024]{.badge-custom .badge-gold}
+:::
+
+::: {.pub-card}
+[Media literacy tips promoting reliable news improve discernment and enhance trust in traditional media]{.pub-title}
+<div class="pub-authors">Altay, S., **De Angelis, A.** and Hoes, E. (2024)</div>
+<div class="pub-journal">Nature Communication Psychology, 2(74)</div>
+[Open Access]{.badge-custom .badge-blue}
+:::
+
+::: {.pub-card}
+[Partisan dealignment and the personalisation of politics in West European parliamentary democracies]{.pub-title}
+<div class="pub-authors">Garzia, D., da Silva, F., and **De Angelis, A.** (2022)</div>
+<div class="pub-journal">West European Politics, 45(2): 311–324</div>
+[Gordon Smith Prize 2022]{.badge-custom .badge-gold}
+:::
+
+::: {.pub-card}
+[From Party to Leader Mobilization? The Personalization of Voter Turnout]{.pub-title}
+<div class="pub-authors">Silva, F., Garzia, D., and **De Angelis, A.** (2021)</div>
+<div class="pub-journal">Party Politics, 27(2): 220-233</div>
+:::
+
+::: {.pub-card}
+[Taking Cues from the Government: Heuristic versus Systematic Processing in a Constitutional Referendum]{.pub-title}
+<div class="pub-authors">**De Angelis, A.**, Colombo, C., and Morisi, D. (2020)</div>
+<div class="pub-journal">West European Politics, 43(4): 845-868</div>
+:::
+
+## Working Papers
+
+*   **De Angelis, A.** & Trechsel, A. "Unravelling the Cognitive Labyrinth of Political Misinformation: Motivated Cognitive Closure in the Digital Age". *Under Review*.
+*   **De Angelis, A.**, Trechsel, A. & Vecchiato, A. "How Personalizing Algorithms on Digital Media Affect News Consumption and Public Opinion". *Submitted*.
+*   Altay, S., **De Angelis, A.** & Hoes, E. "Beyond Skepticism: Framing Media Literacy Tips to Promote Reliable Information".
+*   Mancosu, M., Vegetti, F. & **De Angelis, A.** "Unpacking Post-Truth: Determinants of Political Misinformation Vulnerability".
+
+::: {.callout-note appearance="simple"}
+## Full List
+For a complete list of publications, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=PcvMZMIAAAAJ&hl) or download my [CV](files/CV_DeAngelis.pdf).
+:::

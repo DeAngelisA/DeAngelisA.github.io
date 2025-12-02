@@ -1,0 +1,59 @@
+---
+title: "Supervision"
+---
+
+I am available for supervising Master and PhD theses on digital media, political behaviour, and computational social science.
+
+I welcome motivated students interested in cutting-edge research topics in **political communication**, **computational social sciences**, and **digital democracy**.
+
+## Topics of Interest
+
+I am particularly open to supervising work on the following topics:
+
+*   Designing **media literacy tips** to prevent misinformation acceptance.
+*   Mechanisms of **microtargeting** in political ads on social media platforms.
+*   Using **Generative AI (LLMs)** as generalizable experimental treatments.
+*   The restructuring of **political conflicts** in the digital age.
+*   **Latent variable modeling** for reducing measurement bias.
+
+## How to Apply
+
+::: {.callout-note icon=false}
+## Application Process
+To apply for supervision, please send the following materials to [andrea.deangelis@unimi.it](mailto:andrea.deangelis@unimi.it):
+
+1.  **Personal CV**
+2.  **Short Paragraph** (≈150 words) describing your experience with statistics (*attendance of "Multivariate Analysis" is recommended*).
+3.  **Career Plan** (≈250-300 words) outlining your goals and intrinsic motivation.
+4.  **Research Plan** (one page) including:
+    *   Research question & Key argument
+    *   3-5 key scientific papers
+    *   Data source & Sketch of analysis
+:::
+
+## What to Expect
+
+::: {.panel-tabset}
+
+### My Role
+I will support you in becoming an independent and critical thinker. I am open and supportive, but also demanding. Expect me to challenge you to deliver a paper that matches your full potential.
+
+### Writing
+I am not an English teacher, but I will provide detailed feedback on substance, arguments, and empirics. For grammar, I will provide comments on a sample, but you are expected to apply them to the full draft.
+
+### Drafting
+Expect to write **at least two drafts**.
+1.  **First Draft**: Written to *think*. Forges arguments and explores ideas.
+2.  **Second Draft**: Written to *communicate*. Polished, structured, and audience-focused.
+
+:::
+
+::: {.callout-warning}
+## Policy on LLMs (ChatGPT, Claude, etc.)
+LLMs can be excellent tools for refining thinking and improving writing, but they must **enhance, not replace** your own analytical thinking.
+**Important**: Any misuse of LLMs (e.g., generating entire sections without critical engagement) will be considered academic misconduct. I use LLMs in my own research and can spot their output.
+:::
+
+## Resources
+*   [Writing your journal article in 12 weeks](https://wendybelcher.com/writing-advice/writing-your-journal-article-in-twelve/)
+*   [The craft of writing effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&t=1s) (Video)

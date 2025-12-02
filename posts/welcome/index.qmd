@@ -1,0 +1,9 @@
+---
+title: "Welcome to my new website"
+date: "2024-12-02"
+categories: [news]
+---
+
+Welcome to my newly redesigned academic website. Here I will share updates on my research, teaching materials, and occasional informal analyses.
+
+Stay tuned!

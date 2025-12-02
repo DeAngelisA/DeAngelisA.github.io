@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#22333B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Abstract "A" / Digital Node Concept -->
+  <path d="M50 15 L20 85 H35 L50 50 L65 85 H80 L50 15 Z" fill="none"/>
+  <circle cx="50" cy="35" r="6" fill="#22333B" stroke="none"/>
+  <circle cx="35" cy="85" r="4" fill="#22333B" stroke="none"/>
+  <circle cx="65" cy="85" r="4" fill="#22333B" stroke="none"/>
+  <path d="M50 50 L50 85" stroke-width="4" stroke-dasharray="0 10"/>
+</svg>

@@ -1,0 +1,580 @@
+%-Preamble
+\documentclass{scrartcl}
+
+\reversemarginpar % Move the margin to the left of the page
+\newcommand{\MarginText}[1]{\marginpar{\raggedleft\itshape\small#1}}
+\usepackage[nochapters]{classicthesis}
+\usepackage[LabelsAligned]{currvita}
+\usepackage{eurosym}
+
+
+\renewcommand{\cvheadingfont}{\LARGE\color{Maroon}}
+\usepackage{xcolor, hyperref, changepage} 
+
+% This makes links blue
+%\definecolor{darkblue}{rgb}{0.0,0.0,0.3} 
+%\hypersetup{colorlinks,breaklinks,linkcolor=darkblue,urlcolor=darkblue,anchorcolor=darkblue,citecolor=darkblue}
+
+\hypersetup{colorlinks, breaklinks, linkcolor=Maroon, urlcolor=Maroon}
+
+\newlength{\datebox}
+\settowidth{\datebox}{Nov 2012-Feb 2013}
+
+\newcommand{\NewEntry}[3]{
+\noindent\hangindent=0em\hangafter=0
+\parbox{\datebox}{
+\small \textit{#1}}
+{\hspace{0.2em} #2}
+{ #3  \vspace{0.5em} }
+}
+
+\newcommand{\Description}[1]{\hangindent=2em\hangafter=0\noindent\footnotesize{#1}\par\normalsize\vspace{1em}}
+
+\usepackage[top=1.8cm, bottom=1.8cm, left=4.5cm, right=2.0cm]{geometry}
+
+
+%----------------------------------------------------------------------------------------
+
+
+\begin{document}
+
+\thispagestyle{empty}
+
+%----------------------------------------------------------------------------------------
+%	NAME 
+%----------------------------------------------------------------------------------------
+
+\begin{cv}{\spacedallcaps{Andrea De Angelis}, Ph.D.}
+
+\vspace{1.5em} 
+
+
+\begin{minipage}[t]{\textwidth}
+    \raggedright
+Assistant Professor (Tenure Track) in Computational Social and Political Sciences, University of Milan
+\vspace{0.7em}   
+
+Editor at \href{https://loop.frontiersin.org/people/892213/overview}{Frontiers in Political Science} and \href{https://www.cogitatiopress.com/politicsandgovernance/about/editorialTeam}{Politics and Governance}
+\vspace{0.7em}   
+
+\end{minipage}
+
+\noindent\begin{minipage}{\textwidth}
+\centering
+\href{https://orcid.org/0000-0001-6866-6683}{ORCID}  $\cdot$ \href{https://github.com/DeAngelisA}{GitHub} $\cdot$ \href{https://scholar.google.com/citations?user=PcvMZMIAAAAJ&hl}{Google scholar} $\cdot$ \href{https://www.linkedin.com/in/deangelisa}{LinkedIn} $\cdot$  \href{https://education.rstudio.com/trainers/people/de_angelis+andrea/}{RStudio} 
+\end{minipage}
+
+\vspace{1.5em}
+
+%----------------------------------------------------------------------------------------
+%	CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedlowsmallcaps{Contact information}\vspace{0.5em} % Personal information heading
+
+\NewEntry{} {Department of Political and Social Sciences, University of Milan}  
+
+\NewEntry{address} {via Pace 10, Office 2}
+
+\NewEntry{} {20122 Milan $\cdot$ Italy}
+
+\NewEntry{email}{\href{mailto:andrea.deangelis@unimi.it}{andrea.deangelis@unimi.it}} % Email address
+
+\NewEntry{websites}{\href{https://www.unimi.it/it/ugov/person/andrea-deangelis}{University of Milan} $\cdot$ \href{https://deangelisa.github.io/}{Personal}} % Personal website
+
+\vspace{2em}  
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedlowsmallcaps{Education}\vspace{1em}
+
+%------------------------------------------------
+\NewEntry{May 2021} {\textsc{Habilitation for Associate Professor}}
+
+\Description{\MarginText{}Italian National Scientific Habilitation (Venia Legendi) for Associate Professor in Political Science. Validity: 7th of May 2021 - 7th of May 2030. Scientific sector: Political Science (14/A2). }
+
+
+%------------------------------------------------
+\NewEntry{June 2017} {Ph.D. \textsc{European University Institute}}
+
+\Description{\MarginText{EUI}Doctor of Political and Social Sciences. Thesis title: ``Bridging Troubled Water: Electoral Availability in European Party Systems in the Aftermath of the Great Recession (2009-2014). An Application of Bayesian Ideal Point Estimation''. \\ 
+Date: 21 June 2017. Examining board: Prof. Alexander H. \textsc{Trechsel} (European University Institute, supervisor), Prof. Hanspeter Kriesi (European University Institute), Prof. Russell J. Dalton (University of California), Prof. David Farrell (University College Dublin)}
+
+
+%------------------------------------------------
+\NewEntry{July 2013} {M.Res. \textsc{European University Institute}}
+
+\Description{\MarginText{EUI}Master of Research in Sociology and Political Science.\\
+Prof. Alexander H. \textsc{Trechsel}\ \ $\cdotp$\ \ European University Institute}
+
+%------------------------------------------------
+\NewEntry{July 2012} {M.Sc. \textsc{University of Siena}}
+
+\Description{\MarginText{Siena Univ.}Master of Science in Comparative Politics.\\
+Prof. Paolo \textsc{Bellucci}\ \ $\cdotp$\ \ University of Siena}
+%------------------------------------------------
+
+\NewEntry{March 2010} {M.Sc. \textsc{Bocconi University}}
+
+\Description{\MarginText{Bocconi Univ.}Master of Science in Economics.}
+
+%------------------------------------------------
+\NewEntry{May 2007} {B.Sc. \textsc{University of Perugia}}
+
+\Description{\MarginText{Perugia Univ.}Bachelor of Science in Economics.}
+
+\newpage 
+
+
+%----------------------------------------------------------------------------------------
+%	EMPLOYMENT HISTORY
+%----------------------------------------------------------------------------------------
+\noindent\spacedlowsmallcaps{Professional experience}\vspace{1em}
+
+\NewEntry{Sept 2024 -- Present} {Assistant Professor - Tenure Track Researcher}
+
+\Description{\MarginText{Univ. Milan} Tenure Track Researcher in Computational Social Sciences at the Department of Social and Political Sciences, University of Milan. Starting date: 01.09.2024.}
+
+\NewEntry{Sept 2022 -- Aug 2024} {Research Associate}
+
+\Description{\MarginText{Univ. Zurich} Research Associate at the Department of Political Science, University of Zurich.}
+
+
+\NewEntry{Dec 2018 -- Aug 2022} {Post-doctoral researcher and lecturer}
+
+\Description{\MarginText{Lucerne Univ.}Post-doctoral Researcher at the project ``Media, Information Consumption and Politics'' funded by the Swiss National Science Foundation. Principal Investigator and advisor: Prof. Alexander H. Trechsel. Start date: 01.11.2018; end date: 31.08.2022.}
+
+\NewEntry{Jan 2018 -- June 2019} {Post-doctoral researcher}
+
+\Description{\MarginText{Lucerne Univ.}Post-doctoral Researcher at the project ``Personalization of Politics between Television and the Internet'', Department of Political Science, University of Lucerne. Advisor: Prof. Diego Garzia. Starting date: 01.09.2018; end date: 30.06.2019.}
+
+\NewEntry{Sept 2016 -- Nov 2018} {Senior Researcher and Lecturer (Oberassistant)}
+
+\Description{\MarginText{Lucerne Univ.}Department of Political Science, University of Lucerne. Advisor: Prof. Alexander H. Trechsel. Starting date: 01.01.2017; end date: 30.10.2018.}
+
+\vspace{1.5em} 
+
+
+%----------------------------------------------------------------------------------------
+%	Monographs
+%----------------------------------------------------------------------------------------
+\spacedlowsmallcaps{Monographs and edited volumes}\vspace{1em}
+
+\Description{\MarginText{}De Angelis, A., Farhart, C. E., Merkley, E., Stecula, D. A., eds. (2022). \textsl{Political Misinformation in the Digital Age During a Pandemic: Partisanship, Propaganda, and Democratic Decision-Making}. Lausanne: Frontiers Media SA. doi: \href{https://doi.org/10.3389/978-2-88976-454-9}{10.3389/978-2-88976-454-9}. [\href{https://www.frontiersin.org/research-topics/16048/political-misinformation-in-the-digital-age-during-a-pandemic-partisanship-propaganda-and-democratic}{Open Access link}]
+}
+
+\Description{\MarginText{}Garzia, D., da Silva, F., and De Angelis, A. (2021). \textsl{Leaders without Partisans: Dealignment, media Change, and the Personalization of Politics}. Colchester: Rowman \& Littlefield/ECPR Press.
+}
+
+\Description{\MarginText{}De Angelis, A. (2017). \textsl{Bridging Troubled Water: Electoral Availability in European Party Systems in the Aftermath of the Great Recession (2009-2014)}. European University Institute Dissertation. doi: \href{https://cadmus.eui.eu//handle/1814/46986}{10.2870/711165}.
+}
+
+\vspace{1.5em} 
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+\spacedlowsmallcaps{Publications}\vspace{1em}
+
+\Description{\MarginText{}De Sio, L., De Angelis A., \textsl{et al.} (2024). \textsl{Generational gap and post-ideological politics in Italy (POSTGEN)}. Italian Political Science, Vol. 18(2): 163-176. \href{https://italianpoliticalscience.com/index.php/ips/article/view/245/159}{Open Access version}.  
+}
+
+\Description{\MarginText{}De Angelis, A.  (2024). \textsl{Voting Behavior}. In Nai, A., Grömping, M., and Wirz, D. (Eds). Elgar Encyclopedia of Political Communication. Edward Elgar Publishing. \href{https://deangelisa.github.io/files/voting-behavior-encyclopedia.pdf}{Accepted version}.
+}
+
+\Description{\MarginText{}Altay, S., De Angelis, A. and Hoes, E. (2024). \textsl{Media literacy tips promoting reliable news improve discernment and enhance trust in traditional media}. Nature Communication Psychology Vol. 2(74):  (2024). \href{https://doi.org/10.1038/s44271-024-00121-5}{Open Access published version}. 
+}
+
+\Description{\MarginText{}De Angelis, A. and Vecchiato, A. (2024). \textsl{Panem et Circenses: Removing Political News to Generate Electoral Support, Evidence from Berlusconi's Italy}. Italian Political Science Review Vol. 54(2): 119-137. [\href{https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/panem-et-circenses-removing-political-news-to-generate-electoral-support-evidence-from-berlusconis-italy/3FF22BE200D7B3129F64D3123567A900}{Published version}] The paper was awarded the Giovanni Sartori prize for the best paper published on the Italian Political Science Review in 2024. 
+}
+
+\Description{\MarginText{}De Angelis, A., Farhart, C. E., Merkley, E., Stecula, D. A. (2022). \textsl{Editorial: Political Misinformation in the Digital Age During a Pandemic: Partisanship, Propaganda, and Democratic Decision-Making}. Frontiers in Political Science, 01 June 2022. [\href{https://www.frontiersin.org/articles/10.3389/fpos.2022.897095/full}{Open Access link}] 
+}
+
+\Description{\MarginText{}Garzia, D., da Silva, F., and De Angelis, A (2022). \textsl{Partisan dealignment and the personalisation of politics in West European parliamentary democracies, 1961–2018}. West European Politics, Vol. 45(2): 311–324. [\href{https://www.tandfonline.com/doi/full/10.1080/01402382.2020.1845941}{Published version}, a \href{https://blogs.lse.ac.uk/europpblog/2021/01/19/the-personalisation-of-politics-why-political-leaders-now-lie-at-the-heart-of-european-democracy/}{post} featured on the LSE blog]. \newline
+The paper was awarded the \href{https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2151218}{2022 Gordon Smith and Vincent Wright Memorial Prize} for best full-length paper published on West European Politics. 
+}
+
+\Description{\MarginText{}Silva, F., Garzia, D., and De Angelis, A. (2021). \textsl{From Party to Leader Mobilization? The Personalization of Voter Turnout}. Party Politics, Vol. 27(2): 220-233. [\href{https://journals.sagepub.com/eprint/WMWGTJU5BJRDZCEVVPB9/full}{Published version}; a \href{https://www.democraticaudit.com/2019/09/02/leader-evaluations-and-electoral-participation-the-personalisation-of-voter-turnout/}{post} featured on Democratic Audit] 
+}
+
+\Description{\MarginText{}Morisi, D., Colombo, C. and De Angelis, A. (2021). \textsl{Who is afraid of a change? Ideological differences in support for the status quo in direct democracy}. Journal of Elections, Public Opinion and Parties, Vol. 31(3): 309-328. [\href{https://www.tandfonline.com/eprint/FUFDVHAT3U5FKX3HGWQC/full?target=10.1080/17457289.2019.1698048}{Published version}]. 
+}
+
+\Description{\MarginText{}De Angelis, A. (2020). \textsl{How Voters Distort their Perceptions and Why this Matters}. In: Suhay, E., Grofman, B., and Trechsel, A., \textsl{The Oxford Handbook of Electoral Persuasion}, pp. 946-976. [\href{https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190860806.001.0001/oxfordhb-9780190860806-e-55}{Published version}; \href{https://deangelisa.github.io/files/how-voters-distort.pdf}{pre-print}]
+}
+
+\Description{\MarginText{}Michel, E., Garzia, D., da Silva, F. and De Angelis, A. (2020). \textsl{Leader Effects and Voting for the Populist Radical Right in Western Europe}. Swiss Political Science Review, Vol. 26(3): 273-295. [\href{https://onlinelibrary.wiley.com/doi/10.1111/spsr.12404}{Published version}; \href{https://deangelisa.github.io/files/leader-effect-rr.pdf}{pre-print}]
+}
+
+\Description{\MarginText{}De Angelis, A., Colombo, C., and Morisi, D. (2020). \textsl{Taking Cues from the Government: Heuristic versus Systematic Processing in a Constitutional Referendum}. West European Politics, Vol. 43(4): 845-868. [\href{https://www.tandfonline.com/doi/full/10.1080/01402382.2019.1633836}{Published version}, \href{https://deangelisa.github.io/files/taking-cues.pdf}{pre-print}, a \href{https://blogs.lse.ac.uk/europpblog/2016/11/18/new-survey-evidence-italian-referendum-2016/}{post} featured on the LSE blog]
+}
+
+\Description{\MarginText{}Garzia, D., da Silva, F., and De Angelis, A (2020). \textsl{Image that Matters: News Media Consumption and Party Leader Effects on Voting Behavior}. The International Journal of Press/Politics, Vol. 25(2): 238 - 259. [\href{https://journals.sagepub.com/doi/10.1177/1940161219894979}{Published version}]
+}
+
+
+\Description{\MarginText{}De Sio, L., De Angelis, A, and Emanuele, V. (2017). \textsl{Issue yield and party strategy in multi-party competition}. Comparative Political Studies, Vol. 51(9): 1208-1238. [\href{http://journals.sagepub.com/doi/abs/10.1177/0010414017730082}{Published version}; \href{https://deangelisa.github.io/files/issue-yield.pdf}{pre-print}]
+}
+
+
+\Description{\MarginText{}Garzia, D., Trechsel, A.H., and De Angelis, A. (2017). \textsl{Voting Advice Applications and Electoral Participation: A Multi-Method Study}. Political Communication, Vol. 34(3): 424-443. [\href{http://www.tandfonline.com/doi/abs/10.1080/10584609.2016.1267053?journalCode=upcp20}{Published version}; \href{https://deangelisa.github.io/files/voting-advice-applications.pdf}{pre-print}]
+}
+
+
+\Description{\MarginText{}Garzia, D. and De Angelis, A. (2016). \textsl{Partisanship, Leaders Evaluations and the Vote: Disentangling the new Iron Triangle in Electoral Research}. Comparative European Politics, Vol. 14(5): 604-625. [\href{http://link.springer.com/article/10.1057/cep.2014.36}{Published version}]
+}
+
+
+\Description{\MarginText{}Garzia, D., Trechsel, A.H., De Sio, L., and De Angelis, A. (2015). \textsl{euandi: Project Description and Datasets Documentation}. Robert Schuman Centre for Advanced Studies (RSCAS) Research Paper Series. Research Paper No. RSCAS 2015/01. Link: \url{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2553919} [23 February 2016] 
+}
+
+
+\Description{\MarginText{}Garzia, D., De Angelis, A., and Pianzola, J. (2014). \textsl{The Impact of Voting Advice Applications on Electoral Participation}. In: Garzia, D. and Marschall, S. (Eds.), \textsl{Matching Voters with Parties and Candidates: Voting Advice Applications in a Comparative Perspective}. Colchester (UK): ECPR Press.}
+
+
+\Description{\MarginText{}De Angelis, A. and Garzia, D. (2013). \textsl{Individual level dynamics of PTV change across the electoral cycle}. Electoral Studies, Vol. 32(4): 900 - 904. [\href{http://www.sciencedirect.com/science/article/pii/S0261379413000917}{Published version}]
+}
+
+
+\Description{\MarginText{}Bellucci, P., and De Angelis, A. (2013). \textsl{Government Approval in Italy: Political Cycle, Economic Expectations and TV Coverage}. Electoral Studies, Vol. 32(3): 452 - 459. [\href{http://www.sciencedirect.com/science/article/pii/S0261379413000644}{Published version}]
+}
+\vspace{1.5em} 
+
+
+
+%----------------------------------------------------------------------------------------
+%	GRANTS AND AWARDS
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedlowsmallcaps{Grants and Awards}\vspace{1em}
+
+\NewEntry{Dec 2022} {  \textsc{Honorary mention for teaching excellence}}
+
+\Description{\MarginText{}Honorary mention for excellence in teaching for the Lecture "Introduction to Statistics for the Social Sciences," the Faculty of Humanities and Social Sciences of the University of Lucerne. \href{https://www.dropbox.com/s/ik2hqvb9y4jq8xg/honorary-mention.pdf?dl=0}{Link}}
+
+\NewEntry{Nov 2022} {  \textsc{Gordon Smith and Vincent Wright Memorial Prize}}
+
+\Description{\MarginText{}Winner of the 2022 Gordon Smith and Vincent Wright Memorial Prize for the best article in West European Politics, with the paper “Partisan dealignment and the personalisation of politics in West European parliamentary democracies, 1961–2018”, co-authored with Diego Garzia and Frederico Ferreira da Silva. }
+
+
+\NewEntry{Sept 2022 - Aug 2026} {  \textsc{Swiss National Science Foundation Ambizione Grant}}
+
+\Description{\MarginText{Ambizione}Swiss National Science Foundation, Ambizione Grant (CHF 636,417). Project: Political Misinformation in the Digital Age (PZ00P1-201817)}
+
+%------------------------------------------------
+
+\NewEntry{Nov 2020 - Nov 2021} {  \textsc{Swiss National Science Foundation SPARK Grant}}
+
+\Description{\MarginText{SPARK}Swiss National Science Foundation, SPARK Grant (CHF 96,200). Project: Algorithmic News feeds and Democracy (CRSK-1-106503). Co-applicants: Prof. Alexander H. Trechsel and Dr. Alessandro Vecchiato.}
+
+%------------------------------------------------
+
+\NewEntry{Jan-Apr 2016} {  \textsc{Visiting Scholar Fellowship, Oxford University}}
+
+\Description{\MarginText{Oxford Univ.}Visiting Scholar at Nuffield College, Oxford University.}
+
+%------------------------------------------------
+
+\NewEntry{Sep-Dec 2015} {  \textsc{Fulbright Schuman grant, New York University}}
+
+\Description{\MarginText{NYU}Fulbright Schuman award jointly financed by the Directorate-General for Education and Culture of the European Commission and the United States Department of State (\EUR{10,000}). Social Media and Political Participation Lab, New York University, Wilf Family Department of Politics.}
+
+%------------------------------------------------
+
+\NewEntry{July 2015} {Visiting Researcher --- \textsc{GESIS - Eurolab}}
+
+\Description{\MarginText{Eurolab}Visiting researcher at the European Data Laboratory for Comparative Social Research, GESIS - Leibniz Institute for the Social Sciences in Cologne (Germany). Details \href{http://www.gesis.org/en/institute/competence-centers/european-data-laboratory/}{\textit{here}}. \\
+Reference: Prof. Dr. Ingvill C. \textsc{Mochmann}\ \ $\cdotp$\ \ GESIS - Eurolab}
+
+\vspace{1.5em} 
+
+%----------------------------------------------------------------------------------------
+%	ACADEMIC EXPERIENCE AND INSTITUTIONAL RESP
+%----------------------------------------------------------------------------------------
+\noindent\spacedlowsmallcaps{Editorial, professional, and institutional service}\vspace{1em}
+
+\NewEntry{2025} {Program Co-Chair ISPP Conference}
+
+\Description{\MarginText{ISPP}Program Co-Chair for the International Society of Political Psychology General Conference, Prague 2025. \href{https://ispp.org/meetings/}{Link to conference details.}}
+
+\NewEntry{Jan 2021 -- Present} {Associate Editor for Politics and Governance}
+
+\Description{\MarginText{PolGov}Associate Editor for Politics and Governance, peer-reviewed scientific journal (2023 Impact Factor: 2.5). \href{https://www.cogitatiopress.com/politicsandgovernance/about/editorialTeam}{Link to profile.}}
+
+\NewEntry{Jan 2020 -- Present} {Specialty Chief Editor for Frontiers In Political Science - Political Participation}
+
+\Description{\MarginText{Frontiers}Specialty Chief Editor for Frontiers In Political Science, Gold Open-Access peer-reviewed scientific journal (2023 Impact Factor: 2.3). \href{https://loop.frontiersin.org/people/892213/overview}{Link to profile.}}
+
+
+\NewEntry{Sept 2019 -- Present} {Initiator of the R User group in Lucerne.}
+
+\Description{\MarginText{Lucerne Univ.}Initiator of the local R User group in Lucerne, in collaboration with the Graduate School of Lucerne.}
+
+\NewEntry{Sept 2018 -- Present} {Co-Initiator Master Programme LUMACSS}
+
+\Description{\MarginText{Lucerne Univ.}Co-Initiator of the \href{https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/LUMACSS/MA_Flyer_LUMACSS_HS22.pdf}{Lucerne Master in Computational Social Science} (LUMACSS), in partnership with the Harvard's Berkman Klein Center for Internet and Society. Scientific advisor and designer of the program structure and course offerings.} 
+
+\NewEntry{Sept 2018 -- Present} {Peer-reviewer for scientific journals}
+
+\Description{\MarginText{}American Journal of Political Science, Journal of Politics, Political Analysis, Party Politics, West European Politics, Swiss Political Science Review, Electoral Studies, Policy and Internet, Journal of Elections, Public Opinion and Parties, Contemporary Italian Politics.} 
+
+\vspace{1.5em} 
+
+
+%----------------------------------------------------------------------------------------
+%	TEACHING  EXPERIENCE
+%----------------------------------------------------------------------------------------
+\noindent\spacedlowsmallcaps{Teaching experience}\vspace{1em}
+
+\Description{\MarginText{}I have designed and taught a total of 44 courses, including lectures, seminars and workshops, in the areas of computational social sciences (e.g., "Data Access and regulation"), social sciences (e.g, "Understanding Social Cleavages and Political Conflict"), and Media (e.g., "Comparing Media Systems"), statistics and quantitative methods (e.g., "The Replication Seminar"). In 2022 I received the honorary mention for teaching excellent by the Faculty of Humanities and Social Sciences of the University of Lucerne. Below I offer a selection of courses in my teaching portfolio.}
+
+
+A running list of courses with syllabi and evaluations available \href{https://docs.google.com/spreadsheets/d/1lgZFwmryGN5Bnr1jvxrEKB4W0sXWN26OH1xU_cDmWTQ/edit#gid=0}{here}. 
+
+\vspace{1em}
+
+%-----------------------------------------
+\NewEntry{Spring 2025} {Multivariate Analysis for Social Scientists}
+
+\Description{\MarginText{Uni Milan}Lecturer, Master level course. Introduction to inferential statistics and regression modeling. University of Milan}
+
+%-----------------------------------------
+\NewEntry{Fall 2024} {The Statistics of Causal Inference}
+
+\Description{\MarginText{Uni Milan}Lecturer, Master and PhD level course. Introduction to design-based inference. Main themes:  Directed Acyclical Graphs, Potential Outcome Framework, Matching and Subclassification, Regression Discontinuity, Instrumental Variables, Panel Data, Difference-in-Differences, Synthetic Control. University of Milan. }
+
+%-----------------------------------------
+\NewEntry{Spring 2024} {Multivariate Analysis for Social Scientists}
+
+\Description{\MarginText{Uni Milan}Lecturer, Master level course. Introduction to inferential statistics and regression modeling. University of Milan}
+
+%-----------------------------------------
+\NewEntry{Spring 2024} {Introduction to Data Mining for Social Scientists}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, Master-level course. Introductory course covering elements of data mining and Computational Social Science. Main themes: reproducibility and version control, automated web scraping, XML and JSON, regular expressions, HTTP protocol, working with APIs. University of Lucerne.}
+
+%-----------------------------------------
+\NewEntry{Fall 2023} {Introduction to Statistics for the Social and Political Sciences}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, introductory course covering elements of applied data science, descriptive statistics, linear regression models, and elements of statistical inference (probability, random variables and probability distributions, large sample theorems, hypothesis testing, Monte Carlo simulations. University of Lucerne.}
+
+%-----------------------------------------
+\NewEntry{Fall 2022} {Social Media, Political Science, and the Study of Democracy}
+
+\Description{\MarginText{UZH}Lecturer, Summer School in Democracy Studies, University of Zurich.}
+
+%-----------------------------------------
+
+\NewEntry{Spring 2021} {Research Design in Quantitative Perspective, Module II}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Research Design in a Quantitative Perspective, Module II''. Advanced and design-based inference, regression, experimental design, instrumental variables, difference-in-difference, regression discontinuity.}
+
+%-----------------------------------------
+
+\NewEntry{Jan 2021} {Data Access and Regulation}
+
+\Description{\MarginText{Uni Milan}MA-level course on ``Data Access and regulation''. Ethics and regulation of digital data and web mining, mining data from the web in R, Reproducibility, Git and Github, HTML language, URLs, HTTP protocol (GET, POST), CSS and XPath selectors, JSON and XML, regexprs, R programming, web-based REST APIs.}
+
+%-----------------------------------------
+
+\NewEntry{Fall 2020} {Research Design in Quantitative Perspective}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Research Design in a Quantitative Perspective''. Comparative, statistical, and experimental method, endogeneity, measurement error, and selection bias. The course includes applied sessions where students can familiarize with statistical methods using R.}
+
+%-----------------------------------------
+
+\NewEntry{Spring 2020} {Replication seminar: Doing Research in Practice}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, Master-level seminar ``Replication Seminar: Doing Research in Practice''. The purpose of the seminar is to facilitate the task of students that are keen on developing an empirical project in their Master theses. This seminar is designed to fill the gap between the students’ final works and the classic methods seminars, while offering a service to the scientific community to contrast the replication crisis, by double-checking and re-testing published scientific evidence.}
+
+%-----------------------------------------
+
+\NewEntry{Feb 2020} {Introduction to R for Data Science}
+
+\Description{\MarginText{Campus Lucerne}PhD-level workshop ``Introduction to R for Data Science''.}
+
+%-----------------------------------------
+
+\NewEntry{Jan 2020} {Data Access and Regulation}
+
+\Description{\MarginText{Uni Milan}MA-level course on ``Data Access and regulation''. Ethics and regulation of digital data and web mining, mining data from the web in R, Reproducibility, Git and Github, HTML language, URLs, HTTP protocol (GET, POST), CSS and XPath selectors, JSON and XML, regexprs, R programming, web-based REST APIs.}
+
+
+%-----------------------------------------
+
+\NewEntry{June 2019} {Replicable Research and Reporting in R}
+
+\Description{\MarginText{Lucern Univ.}Instructor, PhD-level workshop ``Replicable Research and Reporting in R''. Replication crisis and the importance of replicability in research. Structuring large research projects to achieve full replicability; reporting in R markdown; introduction to using Git and Github.}
+
+%-----------------------------------------
+
+\NewEntry{May 2019} {Advanced Regression Analysis in R}
+
+\Description{\MarginText{Lucern Univ.}Instructor, PhD-level workshop ``Advanced Regression Analysis in R''. Main topics: Generalized Linear Model with linear and non-linear relations, using Monte Carlo simulations to predict arbitrary quantities of interest.}
+
+%-----------------------------------------
+
+\NewEntry{Jan 2019 -- May 2019} {Replication Seminar: Doing Research in Practice}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, Master-level seminar ``Replication Seminar: Doing Research in Practice''.}
+
+%-----------------------------------------
+
+\NewEntry{Oct 2018} {Introduction to R for Data Analysis}
+
+\Description{\MarginText{Luzern Hochschule}Instructor, Master-level workshop ``Introduction to R for Data Analysis''. R workshop providing an introduction to the R programming language. Main topics: R operators, data types, functions, control structures, data manipulation (base R and dplyr), basic statistical analysis, elements of more advanced issues (generalized linear model, Bayesian hierarchical modeling, text mining, research replicability).}
+
+%-----------------------------------------
+
+\NewEntry{Sept 2018 -- Dec 2018} {Research Design in a Quantitative Perspective}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Research Design in a Quantitative Perspective''.}
+
+%-----------------------------------------
+
+\NewEntry{Sept -- Dec 2018} {Introduction to Political Sociology}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Introduction to Political Sociology''. This seminar focuses on the fundamental socio-economic conflicts affecting the development of political systems, encouraging students to reflect on the most salient factors of political change in order to foster their understanding of contemporary social and political divisions. A key concept in the seminar's discussion is represented by social cleavages. Students are guided through the classic account of cleavage politics (Lipset and Rokkan 1967), in order to understand the fundamental social cleavages in industrial societies, before moving on to the more recent research on political change in post-industrial societies. The last part of the seminar digs into the erosion of the representative function of European party systems and the recent populist uprising.}
+
+%-----------------------------------------
+
+\NewEntry{Apr 2018} {R workshop}
+
+\Description{\MarginText{Graduate School of Lucerne (GSL)}Instructor, PhD workshop ``Introduction to R for Data Analysis''. R workshop providing an introduction to the R programming language. Main topics: R operators, data types, functions, control structures, data manipulation (base R and dplyr), basic statistical analysis, elements of more advanced issues (generalized linear model, Bayesian hierarchical modeling, text mining, research replicability).}
+
+\NewEntry{Jan 2017 -- May 2018} {Replication Seminar}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master ``Replication Seminar''. The purpose of the seminar is to facilitate the task of students that are keen on developing an empirical project in their Master theses. }
+
+\NewEntry{Jan 2017 -- May 2018} {Comparing Media Systems}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Comparing Media Systems''. The purpose of the seminar is to understand the evolution of media systems in the Western world. The seminar traces the change of the media environment from the appearance of the Radio, to broadcast TV, to cable and satellite TV, to the Internet and the spreading of new media. Special attention is devoted to understanding the connections between the media and the formation of citizens' opinions.}
+
+\NewEntry{Sept 2017 -- Dec 2017} {Research Design in a Quantitative Perspective}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Research Design in a Quantitative Perspective'' [co-instructor Prof. Alexander H. Trechsel]. In this seminar the students are guided through some of the most fundamental  social science methods: the comparative, the statistical, and the experimental method.}
+
+%------------------------------------------------
+
+\NewEntry{Sept 2017 -- Dec 2017} {Introduction to Political Sociology}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Introduction to Political Sociology''. }
+
+%------------------------------------------------
+
+\NewEntry{Jan 2017 -- May 2017} {Introduction to Political Communication Research}
+
+\Description{\MarginText{Lucerne Univ.}Lecturer, master seminar ``Introduction to Political Communication Research''. Students are introduced to Political Communication research by replicating in class a selection of recent papers. The substantive contribution of the proposed papers is reviewed in the light of replicated findings, empirical extensions and robustness tests using replication data.}
+
+%------------------------------------------------
+
+\NewEntry{Sept 2015 -- Jul 2016} {STATA tutor --- \textsc{EUI}}
+
+\Description{\MarginText{EUI}\textsc{stata} research software tutor of the European University Institute. Details \href{http://www.eui.eu/ServicesAndAdmin/ComputingService/Software/ResearchSoftwareTutoring.aspx}{\textit{here}}.}
+
+%------------------------------------------------
+
+\NewEntry{Oct 2014 } {Teaching training --- \textsc{EUI}}
+
+\Description{\MarginText{EUI} Teaching in higher education course offered by the European University Institute.}
+
+\vspace{1.5em}
+
+
+
+%----------------------------------------------------------------------------------------
+%	SUPERVISION
+%----------------------------------------------------------------------------------------
+\vspace{1em}
+\noindent\spacedlowsmallcaps{Supervision of junior researchers}\vspace{1em}
+
+\NewEntry{Jan 2017 -- Present} {}
+
+\Description{\MarginText{Lucerne Univ.}Main supervisor for four BA-level and ten MA-level theses on various themes in political communication, comparative politics, and political sociology.}
+\vspace{1.5em} 
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	FUNDING
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedlowsmallcaps{Funding acquisition}\vspace{1em}
+
+\NewEntry{Sept 2022 - Aug 2026} {  \textsc{Swiss National Science Foundation Ambizione Grant}}
+
+\Description{\MarginText{Ambizione}Swiss National Science Foundation "Ambizione" Grant (CHF 636,417). Project: Political Misinformation in the Digital Age (PZ00P1-201817). Start date: 01.09.2022; end date: 31.08.2026. Principal investigator. Grant details: \href{https://data.snf.ch/grants/grant/201817}{https://data.snf.ch/grants/grant/201817}. }
+
+%------------------------------------------------
+
+\NewEntry{Nov 2020 - Nov 2021} {  \textsc{Swiss National Science Foundation SPARK Grant}}
+
+\Description{\MarginText{SPARK}Swiss National Science Foundation, SPARK Grant (CHF 96,200). Project: Algorithmic Newsfeeds and Democracy (CRSK-1-106503). Co-applicant: Prof. Alexander H. Trechsel.}
+
+%------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	CURRENT RESEARCH
+%----------------------------------------------------------------------------------------
+\vspace{2em}
+\noindent\spacedlowsmallcaps{Ongoing research} \vspace{1em}\\
+\textit{Unravelling the Cognitive Labyrinth of Political Misinformation: Motivated Cognitive Closure in the Digital Age}. First author, with Alexander Trechsel. Under Review at Political Psychology. \vspace{0.5em} \\
+ \textit{How Personalizing Algorithms on Digital Media Affect News Consumption and Public Opinion}. Co-authored with Alexander Trechsel and Alessandro Vecchiato. Submitted at the American Political Science Review. \vspace{0.5em} \\ 
+\textit{Beyond Skepticism: Framing Media Literacy Tips to Promote Reliable Information}.  Co-authored with Emma Hoes and Sacha Altay. Working paper.
+ \vspace{0.5em} \\
+ \textit{Navigating Cognitive Dissonances: Motivated Cognitive Closure in Left-Wing Conservatism}. First author, with Alexander Trechsel. Working paper. \vspace{0.5em} \\
+\textit{Unpacking Post-Truth: Determinants of Political Misinformation Vulnerability}.  Co-authored with Moreno Mancosu and Federico Vegetti. Working paper. \vspace{0.5em} \\
+\textit{Social Capital and Political Accountability: Lessons from a Longitudinal Study in Italy (2014-2021)}.  Co-authored with Giorgio Malet and Elisa Volpi. Working paper.  
+
+\vspace{1.5em}
+
+
+%----------------------------------------------------------------------------------------
+%	Language Skills
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Language Skills}\vspace{1em}
+
+\Description{\MarginText{Italian}Native speaker}
+
+\Description{\MarginText{English}Proficient user: reading $(C2)$, writing $(C2)$, speaking $(C2)$}
+
+\Description{\MarginText{Spanish}Proficient user: reading $(C2)$, writing $(C1)$, speaking $(C2)$}
+
+\Description{\MarginText{German}Basic user: \hspace{1.6em} reading $(B1)$, writing $(A2)$, speaking $(A2)$}
+
+\Description{\MarginText{French}Basic user: \hspace{1.6em} reading $(B1)$, writing $(A2)$, speaking $(A2)$}
+
+\vspace{1em} % Extra space between major sections
+
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Programming Skills}\vspace{1em}
+
+\Description{\MarginText{Proficient}\textsc{r}, \textsc{pyton}, \textsc{HTML}, \textsc{CSS}, \textsc{HTTP}, \textsc{git}, \LaTeX, \textsc{Markdown}}
+\Description{\MarginText{Used in the past}\textsc{stata}, \textsc{jags}, \textsc{stan}, \textsc{matlab}}
+
+%------------------------------------------------
+
+\vspace{1em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+
+\end{cvlist}
+
+
+%----------------------------------------------------------------------------------------
+
+
+Milan \ \ $\cdotp$\ \  
+\end{cv}
+\end{document}

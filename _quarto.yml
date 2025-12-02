@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrea De Angelis"
+  description: "Political Scientist | Computational Social Science"
+  favicon: files/logo.svg
+  
+  # Enhances how links look when shared on LinkedIn/Twitter
+  open-graph: true
+  twitter-card: true
+
+  navbar:
+    background: "#FDFBF7" # Cream
+    foreground: "#22333B" # Dark Blue
+    logo: files/logo.svg
+    title: "Andrea De Angelis"
+    search: true
+    collapse: true # Better mobile experience
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Supervision"
+        href: supervision.qmd
+      - text: "CV"
+        href: "files/CV_DeAngelis.pdf"
+        target: _blank
+    right:
+      - icon: github
+        href: https://github.com/deangelisa
+      - icon: linkedin
+        href: https://www.linkedin.com/in/deangelisa/
+      - icon: infinity
+        href: https://loop.frontiersin.org/people/892213/overview
+
+  page-footer:
+    border: true
+    left: "© 2024 Andrea De Angelis"
+    center: "[Department of Social and Political Sciences](https://www.unimi.it/en), University of Milan"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    toc: false
+    mainfont: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif"
