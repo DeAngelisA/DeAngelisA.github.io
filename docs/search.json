@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrea De Angelis",
+    "section": "",
+    "text": "Assistant Professor in Computational Social and Political Sciences University of Milan\nI study the challenges facing democratic politics in the digital age, from misinformation and algorithmic exposure to changing patterns of political participation and judgment. My work combines surveys, experiments, computational methods, and large-scale digital trace data.\nI am also a member of the Digital Society Initiative, co-initiator of the Lucerne Master in Computational Social Science (LUMACSS), and Editor at Frontiers in Political Science and Politics and Governance."
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Andrea De Angelis",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n\n\nWelcome to my new website\n\n\n\n\n\n\n\n\nDec 2, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to my new website",
+    "section": "",
+    "text": "Welcome to my newly redesigned academic website. Here I will share updates on my research, teaching materials, and occasional informal analyses.\nStay tuned!"
+  },
+  {
+    "objectID": "supervision.html",
+    "href": "supervision.html",
+    "title": "Supervision",
+    "section": "",
+    "text": "I supervise Master’s and PhD theses in digital media, political behaviour, and computational social science. I work best with students who are intellectually curious, methodologically ambitious, and motivated to build research projects that combine strong theory with transparent empirical analysis.\nI particularly welcome students interested in the transformation of political communication, digital democracy, and the use of computational and experimental methods in political research."
+  },
+  {
+    "objectID": "supervision.html#topics-of-interest",
+    "href": "supervision.html#topics-of-interest",
+    "title": "Supervision",
+    "section": "Topics of Interest",
+    "text": "Topics of Interest\nI am especially open to supervising projects on:\n\nDesigning and testing media literacy interventions to reduce misinformation vulnerability\n\nThe mechanisms and effects of political microtargeting on social media\n\nUsing Generative AI and Large Language Models as experimental treatments\n\nThe restructuring of political conflict and ideological alignment in digital environments\n\nLatent variable modeling and measurement strategies to reduce bias\n\nInterdisciplinary projects that combine political science with data science, psychology, or communication studies are particularly encouraged."
+  },
+  {
+    "objectID": "supervision.html#how-to-apply",
+    "href": "supervision.html#how-to-apply",
+    "title": "Supervision",
+    "section": "How to Apply",
+    "text": "How to Apply\n\n\n\n\n\n\nApplication Process\n\n\n\nTo apply for supervision, please send the following materials to\nandrea.deangelis@unimi.it:\n\nCurriculum Vitae\nShort paragraph (≈150 words) describing your experience with statistics\n(prior attendance of “Multivariate Analysis” is strongly recommended)\nCareer plan (≈250–300 words) outlining your goals and intrinsic motivation\nResearch plan (one page) including:\n\nResearch question and core argument\n\n3–5 key scientific references\n\nData source and sketch of the empirical strategy"
+  },
+  {
+    "objectID": "supervision.html#what-to-expect",
+    "href": "supervision.html#what-to-expect",
+    "title": "Supervision",
+    "section": "What to Expect",
+    "text": "What to Expect\n\nMy RoleWritingDrafting\n\n\nMy goal is to help you become an independent and critical researcher. I am supportive and available, but also demanding. I will push you to sharpen your theory, strengthen your design, and aim for a level of quality that matches your full potential.\n\n\nI provide detailed feedback on substance, logic, and empirical analysis. I am not an English-language editor: I will correct language on a sample, but you are expected to apply the same standards to the full manuscript.\n\n\nExpect to write at least two full drafts:\n\nFirst draft – written to think: explores ideas, identifies weaknesses, builds structure.\n\nSecond draft – written to communicate: structured, precise, audience-oriented."
+  },
+  {
+    "objectID": "supervision.html#policy-on-generative-ai",
+    "href": "supervision.html#policy-on-generative-ai",
+    "title": "Supervision",
+    "section": "Policy on Generative AI",
+    "text": "Policy on Generative AI\n\n\n\n\n\n\nWarning\n\n\n\nLarge Language Models (ChatGPT, Claude, etc.) can be useful tools for brainstorming, refining arguments, and improving clarity. However, they must support—not replace—your own analytical thinking.\nImportant: Generating substantial parts of a thesis without critical engagement constitutes academic misconduct. I actively use LLMs in my own research and can recognize their unreflective output."
+  },
+  {
+    "objectID": "supervision.html#writing-research-resources",
+    "href": "supervision.html#writing-research-resources",
+    "title": "Supervision",
+    "section": "Writing & Research Resources",
+    "text": "Writing & Research Resources\nSome resources I regularly recommend to students:\n\nWriting your Journal Article in Twelve Weeks – Wendy Belcher\nThe Craft of Scientific Writing – Simon Peyton Jones (video)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach statistics, causal inference, and computational social science with a strong focus on hands-on coding, reproducible research, and independent problem-solving. My goal is to train students who are not just users of methods, but critical and autonomous empirical researchers.\nI have designed and taught more than 40 courses and workshops across the University of Milan, University of Zurich, and University of Lucerne. In 2022, I received an Honorary Mention for Excellence in Teaching from the Faculty of Humanities and Social Sciences (University of Lucerne).\nMy teaching practice is grounded in evidence-based pedagogy for computational learning, with a strong emphasis on live coding, formative assessment, collaborative problem-solving, and inclusive classroom design. I also hold the official RStudio tidyverse Instructor Certification."
+  },
+  {
+    "objectID": "teaching.html#teaching-areas",
+    "href": "teaching.html#teaching-areas",
+    "title": "Teaching",
+    "section": "Teaching Areas",
+    "text": "Teaching Areas\n\n\n\n\nStatistics & Data Science\nApplied statistics, regression models, Monte Carlo simulation, and statistical programming in R, with a continuous emphasis on interpretation and uncertainty.\n\n\n\n\n\n\nCausal Inference & Research Design\nDesign-based inference, matching, regression discontinuity, instrumental variables, panel data, and difference-in-differences.\n\n\n\n\n\n\nComputational Social Science\nWeb scraping, APIs, reproducibility, Git/GitHub, automated text analysis, and large-scale digital trace data."
+  },
+  {
+    "objectID": "teaching.html#current-courses-university-of-milan",
+    "href": "teaching.html#current-courses-university-of-milan",
+    "title": "Teaching",
+    "section": "Current Courses (University of Milan)",
+    "text": "Current Courses (University of Milan)\n\n\n\n\nThe Statistics of Causal Inference\nMaster & PhD Level\nAn advanced introduction to design-based causal inference for social scientists.\nCore topics:\nDirected Acyclic Graphs (DAGs), Potential Outcomes, Matching & Subclassification, Regression Discontinuity, Instrumental Variables, Panel Data, Difference-in-Differences, Synthetic Control.\n\n\n\n\n\n\nMultivariate Analysis for Social Scientists\nMaster Level\nA rigorous introduction to statistical modelling for empirical social research.\nCore topics:\nProbability foundations, linear and generalized linear models, interactions, prediction, uncertainty, and interpretation."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\n\n\n\n\n\n\nTip\n\n\n\nI treat coding as a research instrument. Students learn by replicating real studies, building their own datasets, and developing projects that are fully reproducible from raw data to final paper.\nMy courses are designed to minimize passive learning, maximize structured trial-and-error, and progressively shift students from guided execution to independent problem formulation.\n\n\nKey principles that guide my teaching:\n\nLearning-by-doing through live coding and replication\n\nReproducibility-first (version control, transparent workflows)\n\nError literacy: making mistakes visible and productive\n\nSubstantive anchoring: methods always tied to real political questions"
+  },
+  {
+    "objectID": "teaching.html#past-teaching-portfolio-selected",
+    "href": "teaching.html#past-teaching-portfolio-selected",
+    "title": "Teaching",
+    "section": "Past Teaching Portfolio (Selected)",
+    "text": "Past Teaching Portfolio (Selected)\nI have previously taught courses and workshops on:\n\nData Mining for Social Scientists\n\nIntroduction to Statistics for the Social and Political Sciences\n\nReplication Seminar: Doing Research in Practice\n\nResearch Design in a Quantitative Perspective\n\nComparing Media Systems\n\nPolitical Communication Research\n\nat the University of Milan, University of Zurich, and University of Lucerne."
+  },
+  {
+    "objectID": "teaching.html#full-course-list",
+    "href": "teaching.html#full-course-list",
+    "title": "Teaching",
+    "section": "Full Course List",
+    "text": "Full Course List\n\n\n\n\n\n\nA complete running list of courses, including syllabi and evaluations, is available in this\nGoogle Sheet."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research investigates how digital media, algorithms, and information environments reshape political judgment, electoral behaviour, and democratic accountability. I combine surveys, experiments, computational methods, and large-scale digital trace data."
+  },
+  {
+    "objectID": "research.html#research-programs",
+    "href": "research.html#research-programs",
+    "title": "Research",
+    "section": "Research Programs",
+    "text": "Research Programs\n\n\n\n\nPolitical Misinformation & Digital Vulnerability\nI study why citizens believe or reject political misinformation, how motivated reasoning works in digital environments, and how media literacy interventions can improve information discernment. Learn more →\n\n\n\n\n\n\nMedia, Media Systems & Public Opinion\nThis program examines how media, exposure patterns, and media systems influence news consumption, perceptions of politics, and trust in institutions. Learn more →\n\n\n\n\n\n\nParties, Leaders & Voters\nHere I analyse the shift from party-centred to leader-centred politics, and how this personalization affects vote choice and turnout across Western democracies. Learn more →\n\n\n\n\n\n\nMeasurement, Methods & Computational Social Science\nThis line of work develops tools for measurement, causal inference, and computational text and trace-data analysis in political behaviour research. Learn more →"
+  },
+  {
+    "objectID": "research.html#political-misinformation-digital-vulnerability",
+    "href": "research.html#political-misinformation-digital-vulnerability",
+    "title": "Research",
+    "section": "Political Misinformation & Digital Vulnerability",
+    "text": "Political Misinformation & Digital Vulnerability\nThis research program investigates how people encounter, evaluate, and sometimes embrace political misinformation in digital spaces. I focus on the cognitive and motivational mechanisms behind misinformation vulnerability, and on interventions that can foster more reliable news use.\nSelected publications\n\nPolitical Misinformation in the Digital Age During a Pandemic\n\nDe Angelis, A., Farhart, C. E., Merkley, E., Stecula, D. A., eds. (2022)\n\n\nFrontiers Media SA\n\nOpen Access\n\n\nPanem et Circenses: Removing Political News to Generate Electoral Support\n\nDe Angelis, A. and Vecchiato, A. (2024)\n\n\nItalian Political Science Review, 54(2): 119–137\n\nSartori Prize 2024\n\n\nMedia literacy tips promoting reliable news improve discernment and enhance trust in traditional media\n\nAltay, S., De Angelis, A. and Hoes, E. (2024)\n\n\nNature Communication Psychology, 2(74)\n\nOpen Access\n\nOngoing work\n\nDe Angelis, A. & Trechsel, A.\nUnravelling the Cognitive Labyrinth of Political Misinformation: Motivated Cognitive Closure in the Digital Age (under review).\nMancosu, M., Vegetti, F. & De Angelis, A.\nUnpacking Post-Truth: Determinants of Political Misinformation Vulnerability (working paper).\n\nFunding\nThis program is supported by the Swiss National Science Foundation Ambizione project Political Misinformation in the Digital Age (PZ00P1-201817)."
+  },
+  {
+    "objectID": "research.html#media-media-systems-and-public-opinion",
+    "href": "research.html#media-media-systems-and-public-opinion",
+    "title": "Research",
+    "section": "Media, Media Systems and Public Opinion",
+    "text": "Media, Media Systems and Public Opinion\nIn this program I study how citizens navigate increasingly personalized and fragmented media systems. I focus on the psychology of opinion formation, as well as the role of algorithmic news feeds, cross-platform exposure, and the consequences of these environments for political learning, trust, and participation.\nSelected publications\n\nTaking Cues from the Government: Heuristic versus Systematic Processing in a Constitutional Referendum\n\nDe Angelis, A., Colombo, C., and Morisi, D. (2020)\n\n\nWest European Politics, 43(4): 845–868\n\n\n\nImage that Matters: News Media Consumption and Party Leader Effects on Voting Behavior\n\nGarzia, D., da Silva, F., and De Angelis, A. (2020)\n\n\nThe International Journal of Press/Politics, 25(2): 238–259\n\n\nOngoing work\n\nDe Angelis, A., Trechsel, A. & Vecchiato, A.\nHow Personalizing Algorithms on Digital Media Affect News Consumption and Public Opinion.\n\nFunding\nThis work builds on the SNSF SPARK grant Algorithmic Newsfeeds and Democracy (CRSK-1-106503)."
+  },
+  {
+    "objectID": "research.html#parties-leaders-and-voters",
+    "href": "research.html#parties-leaders-and-voters",
+    "title": "Research",
+    "section": "Parties, Leaders and Voters",
+    "text": "Parties, Leaders and Voters\nThis research program examines the long-term shift from party-centred to leader-centred competition and its implications for turnout, vote choice, and party system change.\nSelected publications\n\nLeaders without Partisans: Dealignment, Media Change, and the Personalization of Politics\n\nGarzia, D., da Silva, F., and De Angelis, A. (2021)\n\n\nRowman & Littlefield/ECPR Press\n\n\n\nPartisan dealignment and the personalisation of politics in West European parliamentary democracies\n\nGarzia, D., da Silva, F., and De Angelis, A. (2022)\n\n\nWest European Politics, 45(2): 311–324\n\nGordon Smith & Vincent Wright Prize 2022\n\n\nFrom Party to Leader Mobilization? The Personalization of Voter Turnout\n\nSilva, F., Garzia, D., and De Angelis, A. (2021)\n\n\nParty Politics, 27(2): 220–233"
+  },
+  {
+    "objectID": "research.html#measurement-methods-and-computational-social-science",
+    "href": "research.html#measurement-methods-and-computational-social-science",
+    "title": "Research",
+    "section": "Measurement, Methods and Computational Social Science",
+    "text": "Measurement, Methods and Computational Social Science\nThis stream develops measurement strategies, causal designs, and computational tools for studying political behaviour. It includes work on issue yield, digital influence, and optimal design of latent-construct measures.\nSelected publications\n\nIssue yield and party strategy in multi-party competition\n\nDe Sio, L., De Angelis, A., and Emanuele, V. (2017)\n\n\nComparative Political Studies, 51(9): 1208–1238\n\n\n\nHow Voters Distort their Perceptions and Why this Matters\n\nDe Angelis, A. (2020)\n\n\nThe Oxford handbook of Electoral Persuasion\n\n\n\nVoting Advice Applications and Electoral Participation: A Multi-Method Study\n\nGarzia, D., Trechsel, A. H., and De Angelis, A. (2017)\n\n\nPolitical Communication, 34(3): 424–443\n\n\nOngoing work\n\nDe Angelis, A.\nFrom Length to Information: Optimal Item Design for Latent Constructs in Political Research (working paper).\nMethodological work in progress on large-scale LLM-based text classification and digital trace data for political research."
+  },
+  {
+    "objectID": "research.html#full-publication-list",
+    "href": "research.html#full-publication-list",
+    "title": "Research",
+    "section": "Full Publication List",
+    "text": "Full Publication List\nFor a complete and up-to-date list of publications, please refer to my\nGoogle Scholar Profile or download my CV."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News & Updates",
+    "section": "",
+    "text": "Welcome to my new website\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 2, 2025\n\n\n\n\n\nNo matching items"
+  }
+]
