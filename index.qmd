@@ -20,9 +20,9 @@ listing:
 :::
 
 ::: {.g-col-12 .g-col-md-9 .hero-content .ps-md-4}
-# ![](files/logo.svg){width=0.8em .me-2 .mb-2} Andrea De Angelis
-**Assistant Professor (Tenure Track)**  
-*Computational Social and Political Sciences, University of Milan*
+# Andrea De Angelis, PhD
+**Assistant Professor in Computational Social and Political Sciences**
+**University of Milan**
 
 I am a political scientist working on public opinion, digital democracy, and computational social science. I study how citizens form political attitudes in a digital media environment, with a focus on misinformation, algorithmic exposure, and large language models.
 
