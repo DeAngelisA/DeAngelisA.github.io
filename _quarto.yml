@@ -42,12 +42,14 @@ website:
 
 format:
   html:
+    site-map: true
     theme:
       light: cosmo
       dark: darkly
     css: styles.css
     include-in-header:
       - text: |
+          <meta name="google-site-verification" content="Zz-qxF05cWb5JpnpOHUZKTpkwn8oMOHmtL8IBWzTBBc" />
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     toc: false
