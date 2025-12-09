@@ -2,9 +2,61 @@
 title: "Research"
 ---
 
-My research focuses on **digital democracy**, **misinformation**, and **computational methods**. Below is a selection of my work.
+My research investigates how digital media, algorithms, and information environments reshape political judgment, electoral behaviour, and democratic accountability. I combine surveys, experiments, computational methods, and large-scale digital trace data.
 
-## Featured Research
+## Research Programs
+
+::: {.grid .gap-3 .mt-3}
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Political Misinformation & Digital Vulnerability
+I study why citizens believe or reject political misinformation, how motivated reasoning works in digital environments, and how media literacy interventions can improve information discernment.
+[Learn more →](#political-misinformation-digital-vulnerability){.icon-link .stretched-link}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Media, Media Systems & Public Opinion
+This program examines how media, exposure patterns, and media systems influence news consumption, perceptions of politics, and trust in institutions.
+[Learn more →](#media-media-systems-and-public-opinion){.icon-link .stretched-link}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Parties, Leaders & Voters
+Here I analyse the shift from party-centred to leader-centred politics, and how this personalization affects vote choice and turnout across Western democracies.
+[Learn more →](#parties-leaders-and-voters){.icon-link .stretched-link}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Measurement, Methods & Computational Social Science
+This line of work develops tools for measurement, causal inference, and computational text and trace-data analysis in political behaviour research.
+[Learn more →](#measurement-methods-and-computational-social-science){.icon-link .stretched-link}
+:::
+:::
+:::
+
+:::
+
+---
+
+## Political Misinformation & Digital Vulnerability {#political-misinformation-digital-vulnerability}
+
+This research program investigates how people encounter, evaluate, and sometimes embrace political misinformation in digital spaces. I focus on the cognitive and motivational mechanisms behind misinformation vulnerability, and on interventions that can foster more reliable news use.
+
+**Selected publications**
 
 ::: {.pub-card}
 [Political Misinformation in the Digital Age During a Pandemic]{.pub-title}
@@ -14,15 +66,9 @@ My research focuses on **digital democracy**, **misinformation**, and **computat
 :::
 
 ::: {.pub-card}
-[Leaders without Partisans: Dealignment, Media Change, and the Personalization of Politics]{.pub-title}
-<div class="pub-authors">Garzia, D., da Silva, F., and **De Angelis, A.** (2021)</div>
-<div class="pub-journal">Rowman & Littlefield/ECPR Press</div>
-:::
-
-::: {.pub-card}
 [Panem et Circenses: Removing Political News to Generate Electoral Support]{.pub-title}
 <div class="pub-authors">**De Angelis, A.** and Vecchiato, A. (2024)</div>
-<div class="pub-journal">Italian Political Science Review, 54(2): 119-137</div>
+<div class="pub-journal">Italian Political Science Review, 54(2): 119–137</div>
 [Sartori Prize 2024]{.badge-custom .badge-gold}
 :::
 
@@ -33,33 +79,109 @@ My research focuses on **digital democracy**, **misinformation**, and **computat
 [Open Access]{.badge-custom .badge-blue}
 :::
 
+**Ongoing work**
+
+- **De Angelis, A.** & Trechsel, A.  
+  *Unravelling the Cognitive Labyrinth of Political Misinformation: Motivated Cognitive Closure in the Digital Age* (under review).
+- Mancosu, M., Vegetti, F. & **De Angelis, A.**  
+  *Unpacking Post-Truth: Determinants of Political Misinformation Vulnerability* (working paper).
+
+**Funding**
+
+This program is supported by the Swiss National Science Foundation Ambizione project *Political Misinformation in the Digital Age* (PZ00P1-201817).
+
+---
+
+## Media, Media Systems and Public Opinion {#media-media-systems-and-public-opinion}
+
+In this program I study how citizens navigate increasingly personalized and fragmented media systems. I focus on the psychology of opinion formation, as well as the role of algorithmic news feeds, cross-platform exposure, and the consequences of these environments for political learning, trust, and participation. 
+
+**Selected publications**
+
+::: {.pub-card}
+[Taking Cues from the Government: Heuristic versus Systematic Processing in a Constitutional Referendum]{.pub-title}
+<div class="pub-authors">**De Angelis, A.**, Colombo, C., and Morisi, D. (2020)</div>
+<div class="pub-journal">West European Politics, 43(4): 845–868</div>
+:::
+
+::: {.pub-card}
+[Image that Matters: News Media Consumption and Party Leader Effects on Voting Behavior]{.pub-title}
+<div class="pub-authors">Garzia, D., da Silva, F., and **De Angelis, A.** (2020)</div>
+<div class="pub-journal">The International Journal of Press/Politics, 25(2): 238–259</div>
+:::
+
+**Ongoing work**
+
+- **De Angelis, A.**, Trechsel, A. & Vecchiato, A.  
+  *How Personalizing Algorithms on Digital Media Affect News Consumption and Public Opinion*. 
+
+**Funding**
+
+This work builds on the SNSF SPARK grant *Algorithmic Newsfeeds and Democracy* (CRSK-1-106503).
+
+---
+
+## Parties, Leaders and Voters {#parties-leaders-and-voters}
+
+This research program examines the long-term shift from party-centred to leader-centred competition and its implications for turnout, vote choice, and party system change.
+
+**Selected publications**
+
+::: {.pub-card}
+[Leaders without Partisans: Dealignment, Media Change, and the Personalization of Politics]{.pub-title}
+<div class="pub-authors">Garzia, D., da Silva, F., and **De Angelis, A.** (2021)</div>
+<div class="pub-journal">Rowman & Littlefield/ECPR Press</div>
+:::
+
 ::: {.pub-card}
 [Partisan dealignment and the personalisation of politics in West European parliamentary democracies]{.pub-title}
 <div class="pub-authors">Garzia, D., da Silva, F., and **De Angelis, A.** (2022)</div>
 <div class="pub-journal">West European Politics, 45(2): 311–324</div>
-[Gordon Smith Prize 2022]{.badge-custom .badge-gold}
+[Gordon Smith & Vincent Wright Prize 2022]{.badge-custom .badge-gold}
 :::
 
 ::: {.pub-card}
 [From Party to Leader Mobilization? The Personalization of Voter Turnout]{.pub-title}
 <div class="pub-authors">Silva, F., Garzia, D., and **De Angelis, A.** (2021)</div>
-<div class="pub-journal">Party Politics, 27(2): 220-233</div>
+<div class="pub-journal">Party Politics, 27(2): 220–233</div>
+:::
+
+---
+
+## Measurement, Methods and Computational Social Science {#measurement-methods-and-computational-social-science}
+
+This stream develops measurement strategies, causal designs, and computational tools for studying political behaviour. It includes work on issue yield, digital influence, and optimal design of latent-construct measures.
+
+**Selected publications**
+
+::: {.pub-card}
+[Issue yield and party strategy in multi-party competition]{.pub-title}
+<div class="pub-authors">De Sio, L., **De Angelis, A.**, and Emanuele, V. (2017)</div>
+<div class="pub-journal">Comparative Political Studies, 51(9): 1208–1238</div>
 :::
 
 ::: {.pub-card}
-[Taking Cues from the Government: Heuristic versus Systematic Processing in a Constitutional Referendum]{.pub-title}
-<div class="pub-authors">**De Angelis, A.**, Colombo, C., and Morisi, D. (2020)</div>
-<div class="pub-journal">West European Politics, 43(4): 845-868</div>
+[How Voters Distort their Perceptions and Why this Matters]{.pub-title}
+<div class="pub-authors">**De Angelis, A.** (2020)</div>
+<div class="pub-journal">The Oxford handbook of Electoral Persuasion</div>
 :::
 
-## Working Papers
-
-*   **De Angelis, A.** & Trechsel, A. "Unravelling the Cognitive Labyrinth of Political Misinformation: Motivated Cognitive Closure in the Digital Age". *Under Review*.
-*   **De Angelis, A.**, Trechsel, A. & Vecchiato, A. "How Personalizing Algorithms on Digital Media Affect News Consumption and Public Opinion". *Submitted*.
-*   Altay, S., **De Angelis, A.** & Hoes, E. "Beyond Skepticism: Framing Media Literacy Tips to Promote Reliable Information".
-*   Mancosu, M., Vegetti, F. & **De Angelis, A.** "Unpacking Post-Truth: Determinants of Political Misinformation Vulnerability".
-
-::: {.callout-note appearance="simple"}
-## Full List
-For a complete list of publications, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=PcvMZMIAAAAJ&hl) or download my [CV](files/CV_DeAngelis.pdf).
+::: {.pub-card}
+[Voting Advice Applications and Electoral Participation: A Multi-Method Study]{.pub-title}
+<div class="pub-authors">Garzia, D., Trechsel, A. H., and **De Angelis, A.** (2017)</div>
+<div class="pub-journal">Political Communication, 34(3): 424–443</div>
 :::
+
+
+**Ongoing work**
+
+- **De Angelis, A.**  
+  *From Length to Information: Optimal Item Design for Latent Constructs in Political Research* (working paper).
+- Methodological work in progress on large-scale LLM-based text classification and digital trace data for political research.
+
+---
+
+## Full Publication List
+
+For a complete and up-to-date list of publications, please refer to my  
+[Google Scholar Profile](https://scholar.google.com/citations?user=PcvMZMIAAAAJ&hl) or download my [CV](files/CV_DeAngelis.pdf).

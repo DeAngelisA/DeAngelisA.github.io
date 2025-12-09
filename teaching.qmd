@@ -2,55 +2,120 @@
 title: "Teaching"
 ---
 
-I have designed and taught a total of **44 courses**, including lectures, seminars, and workshops in computational social sciences, statistics, and political communication.
+I teach statistics, causal inference, and computational social science with a strong focus on **hands-on coding**, **reproducible research**, and **independent problem-solving**. My goal is to train students who are not just users of methods, but critical and autonomous empirical researchers.
 
-In 2022, I received an **honorary mention for teaching excellence** from the Faculty of Humanities and Social Sciences of the University of Lucerne.
+I have designed and taught more than **40 courses and workshops** across the University of Milan, University of Zurich, and University of Lucerne. In 2022, I received an **Honorary Mention for Excellence in Teaching** from the Faculty of Humanities and Social Sciences (University of Lucerne).
+
+My teaching practice is grounded in evidence-based pedagogy for computational learning, with a strong emphasis on live coding, formative assessment, collaborative problem-solving, and inclusive classroom design. I also hold the **official RStudio tidyverse Instructor Certification**.
+
+---
+
+## Teaching Areas
+
+::: {.grid .gap-3 .mt-3}
+
+::: {.g-col-12 .g-col-lg-4}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Statistics & Data Science
+Applied statistics, regression models, Monte Carlo simulation, and statistical programming in R, with a continuous emphasis on interpretation and uncertainty.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-4}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Causal Inference & Research Design
+Design-based inference, matching, regression discontinuity, instrumental variables, panel data, and difference-in-differences.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-4}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Computational Social Science
+Web scraping, APIs, reproducibility, Git/GitHub, automated text analysis, and large-scale digital trace data.
+:::
+:::
+:::
+
+:::
+
+---
 
 ## Current Courses (University of Milan)
 
-::: {.course-card}
-::: {.grid .g-0}
-::: {.g-col-12 .g-col-md-5 .course-img}
-![](files/course-causal.png)
-:::
-::: {.g-col-12 .g-col-md-7 .p-4}
-### The Statistics of Causal Inference
-*Master and PhD Level*
+::: {.grid .gap-3 .mt-3}
 
-An advanced introduction to design-based inference.
-**Key Topics**: Directed Acyclical Graphs (DAGs), Potential Outcome Framework, Matching, Regression Discontinuity, Instrumental Variables, Panel Data, Difference-in-Differences, Synthetic Control.
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### The Statistics of Causal Inference  
+*Master & PhD Level*
+
+An advanced introduction to design-based causal inference for social scientists.
+
+**Core topics:**  
+Directed Acyclic Graphs (DAGs), Potential Outcomes, Matching & Subclassification, Regression Discontinuity, Instrumental Variables, Panel Data, Difference-in-Differences, Synthetic Control.
 :::
 :::
 :::
 
-::: {.course-card}
-::: {.grid .g-0}
-::: {.g-col-12 .g-col-md-5 .course-img}
-![](files/course-multivariate.png)
-:::
-::: {.g-col-12 .g-col-md-7 .p-4}
-### Multivariate Analysis for Social Scientists
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100 .border-0 .shadow-sm}
+::: {.card-body}
+### Multivariate Analysis for Social Scientists  
 *Master Level*
 
-A comprehensive introduction to inferential statistics and regression modeling for social science research. Focus on practical application and interpretation.
+A rigorous introduction to statistical modelling for empirical social research.
+
+**Core topics:**  
+Probability foundations, linear and generalized linear models, interactions, prediction, uncertainty, and interpretation.
 :::
 :::
 :::
 
-## Teaching Portfolio
+:::
 
-My teaching experience spans across the University of Milan, University of Zurich, and University of Lucerne. I have taught courses on:
+---
 
-*   **Computational Social Science**: Data mining, web scraping, APIs, reproducibility (Git/GitHub).
-*   **Statistics**: R programming, applied data science, regression analysis.
-*   **Political Science**: Political communication, media systems, social cleavages.
+## Teaching Philosophy
+
+::: {.callout-tip icon=false}
+I treat coding as a **research instrument**. Students learn by replicating real studies, building their own datasets, and developing projects that are fully reproducible from raw data to final paper.
+
+My courses are designed to minimize passive learning, maximize structured trial-and-error, and progressively shift students from guided execution to independent problem formulation.
+:::
+
+Key principles that guide my teaching:
+
+- **Learning-by-doing** through live coding and replication  
+- **Reproducibility-first** (version control, transparent workflows)  
+- **Error literacy**: making mistakes visible and productive  
+- **Substantive anchoring**: methods always tied to real political questions  
+
+---
+
+## Past Teaching Portfolio (Selected)
+
+I have previously taught courses and workshops on:
+
+- **Data Mining for Social Scientists**  
+- **Introduction to Statistics for the Social and Political Sciences**  
+- **Replication Seminar: Doing Research in Practice**  
+- **Research Design in a Quantitative Perspective**  
+- **Comparing Media Systems**  
+- **Political Communication Research**
+
+at the University of Milan, University of Zurich, and University of Lucerne.
+
+---
+
+## Full Course List
 
 ::: {.callout-note appearance="simple"}
-## Full Course List
-A complete running list of my courses, including syllabi and evaluations, is available in this [Google Sheet](https://docs.google.com/spreadsheets/d/1lgZFwmryGN5Bnr1jvxrEKB4W0sXWN26OH1xU_cDmWTQ/edit#gid=0).
-:::
-
-::: {.callout-tip}
-## Teaching Philosophy
-I emphasize **hands-on coding**, **reproducible workflows**, and **critical thinking**. My goal is to empower students to not only understand statistical concepts but to apply them independently to answer substantive social science questions.
+A complete running list of courses, including syllabi and evaluations, is available in this  
+[Google Sheet](https://docs.google.com/spreadsheets/d/1lgZFwmryGN5Bnr1jvxrEKB4W0sXWN26OH1xU_cDmWTQ/edit#gid=0).
 :::

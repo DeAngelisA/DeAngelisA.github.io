@@ -5,7 +5,7 @@ project:
 website:
   title: "Andrea De Angelis"
   description: "Political Scientist | Computational Social Science"
-  favicon: files/logo.svg
+  favicon: files/icon.png
   
   # Enhances how links look when shared on LinkedIn/Twitter
   open-graph: true
@@ -14,15 +14,13 @@ website:
   navbar:
     background: "#FDFBF7" # Cream
     foreground: "#22333B" # Dark Blue
-    logo: files/logo.svg
+    logo: files/icon.png
     title: "Andrea De Angelis"
     search: true
     collapse: true # Better mobile experience
     left:
       - text: "Home"
         href: index.qmd
-      - text: "News"
-        href: news.qmd
       - text: "Research"
         href: research.qmd
       - text: "Teaching"
@@ -31,18 +29,14 @@ website:
         href: supervision.qmd
       - text: "CV"
         href: "files/CV_DeAngelis.pdf"
+      - text: "News"
+        href: news.qmd
         target: _blank
-    right:
-      - icon: github
-        href: https://github.com/deangelisa
-      - icon: linkedin
-        href: https://www.linkedin.com/in/deangelisa/
-      - icon: infinity
-        href: https://loop.frontiersin.org/people/892213/overview
+
 
   page-footer:
     border: true
-    left: "© 2024 Andrea De Angelis"
+    left: "© 2025 Andrea De Angelis"
     center: "[Department of Social and Political Sciences](https://www.unimi.it/en), University of Milan"
     right: "Built with [Quarto](https://quarto.org)"
 

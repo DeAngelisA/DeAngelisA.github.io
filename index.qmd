@@ -20,11 +20,11 @@ listing:
 :::
 
 ::: {.g-col-12 .g-col-md-9 .hero-content .ps-md-4}
-# Andrea De Angelis, PhD
+# Andrea De Angelis
 **Assistant Professor in Computational Social and Political Sciences**
 **University of Milan**
 
-I am a political scientist working on public opinion, digital democracy, and computational social science. I study how citizens form political attitudes in a digital media environment, with a focus on misinformation, algorithmic exposure, and large language models.
+I study the challenges facing democratic politics in the digital age, from misinformation and algorithmic exposure to changing patterns of political participation and judgment. My work combines surveys, experiments, computational methods, and large-scale digital trace data.
 
 I am also a member of the [Digital Society Initiative](https://democracy.dsi.uzh.ch), co-initiator of the [Lucerne Master in Computational Social Science (LUMACSS)](https://www.unilu.ch/en/study/study-programmes/masters-degrees/faculty-of-humanities-and-social-sciences/lucerne-master-in-computational-social-sciences-lumacss/), and Editor at [Frontiers in Political Science](https://loop.frontiersin.org/people/892213/overview) and [Politics and Governance](https://www.cogitatiopress.com/politicsandgovernance/about/editorialTeam).
 
@@ -33,7 +33,7 @@ I am also a member of the [Digital Society Initiative](https://democracy.dsi.uzh
 [<i class="bi bi-github"></i>](https://github.com/deangelisa){.btn .btn-outline-primary title="GitHub"}
 [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/deangelisa/){.btn .btn-outline-primary title="LinkedIn"}
 [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0001-6866-6683){.btn .btn-outline-primary title="ORCID"}
-[<i class="bi bi-newspaper"></i>](https://buttondown.email/){.btn .btn-outline-primary title="Newsletter"}
+[<i class="bi bi-infinity"></i>](https://loop.frontiersin.org/people/892213/overview){.btn .btn-outline-primary title="Frontiers Loop"}
 :::
 
 :::
@@ -45,7 +45,8 @@ I am also a member of the [Digital Society Initiative](https://democracy.dsi.uzh
 ::: {.card .h-100 .border-0 .shadow-sm}
 ::: {.card-body}
 ### [<i class="bi bi-graph-up-arrow text-primary"></i> Research]{.card-title}
-My research focuses on **digital democracy**, **misinformation**, and **computational methods**. I combine surveys, experiments, and digital trace data.
+My research focuses on **digital democracy**, **misinformation**, and **computational methods**. I integrate surveys, experiments, and digital trace data to study political attitudes in online environments.
+
 
 [Explore Research →](research.qmd){.stretched-link .icon-link}
 :::
@@ -56,7 +57,7 @@ My research focuses on **digital democracy**, **misinformation**, and **computat
 ::: {.card .h-100 .border-0 .shadow-sm}
 ::: {.card-body}
 ### [<i class="bi bi-easel2 text-primary"></i> Teaching]{.card-title}
-I teach courses on **statistics**, **causal inference**, and **data mining**. I emphasize hands-on coding and reproducible workflows.
+I teach courses on **statistics**, **causal inference**, and **data mining**, with a strong emphasis on hands-on coding and reproducible research workflows.
 
 [View Courses →](teaching.qmd){.stretched-link .icon-link}
 :::
@@ -67,7 +68,7 @@ I teach courses on **statistics**, **causal inference**, and **data mining**. I 
 ::: {.card .h-100 .border-0 .shadow-sm}
 ::: {.card-body}
 ### [<i class="bi bi-mortarboard text-primary"></i> Supervision]{.card-title}
-I supervise Master and PhD theses on **digital media**, **political behaviour**, and **computational social science**.
+I supervise Master’s and PhD theses on **digital media**, **political behaviour**, and **computational social science**.
 
 [Information for Students →](supervision.qmd){.stretched-link .icon-link}
 :::

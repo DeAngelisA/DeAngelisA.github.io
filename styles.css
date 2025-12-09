@@ -28,7 +28,7 @@
   --nb-font-sans: 'Inter', sans-serif;
 }
 
-/* Dark Mode Overrides (Optional - keeping it readable if toggled) */
+/* Dark Mode Overrides */
 body.quarto-dark {
   --nb-bg: #1A1A1A;
   --nb-surface: #262626;
@@ -38,6 +38,22 @@ body.quarto-dark {
   --nb-accent: #BC8034;
   --nb-accent-hover: #D69E58;
   --nb-border: #333;
+}
+
+/* Navbar: dark mode overrides */
+body.quarto-dark .navbar {
+  background: #111111 !important;
+  border-bottom: 1px solid #333333;
+}
+
+body.quarto-dark .navbar-brand,
+body.quarto-dark .navbar .nav-link {
+  color: #fdfbf7 !important;  /* light text on dark background */
+}
+
+body.quarto-dark .navbar .nav-link.active,
+body.quarto-dark .navbar .nav-link.show {
+  color: var(--nb-accent) !important; /* green/gold accent for active link */
 }
 
 /* Global Styles ----------------------------------------------------------- */
