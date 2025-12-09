@@ -28,7 +28,11 @@ I study the challenges facing democratic politics in the digital age, from misin
 
 I am also a member of the [Digital Society Initiative](https://democracy.dsi.uzh.ch), co-initiator of the [Lucerne Master in Computational Social Science (LUMACSS)](https://www.unilu.ch/en/study/study-programmes/masters-degrees/faculty-of-humanities-and-social-sciences/lucerne-master-in-computational-social-sciences-lumacss/), and Editor at [Frontiers in Political Science](https://loop.frontiersin.org/people/892213/overview) and [Politics and Governance](https://www.cogitatiopress.com/politicsandgovernance/about/editorialTeam).
 
-[<i class="bi bi-envelope-fill"></i>](mailto:andrea.deangelis@unimi.it){.btn .btn-outline-primary title="Email"}
+<a class="btn btn-outline-primary" title="Email"
+   href="#"
+   onclick="location.href='mailto:' + 'andrea.deangelis' + '@' + 'unimi.it'; return false;">
+  <i class="bi bi-envelope-fill"></i>
+</a>
 [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=PcvMZMIAAAAJ&hl){.btn .btn-outline-primary title="Google Scholar"}
 [<i class="bi bi-github"></i>](https://github.com/deangelisa){.btn .btn-outline-primary title="GitHub"}
 [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/deangelisa/){.btn .btn-outline-primary title="LinkedIn"}
