@@ -14,7 +14,7 @@ website:
   navbar:
     background: "#FDFBF7" # Cream
     foreground: "#22333B" # Dark Blue
-    logo: files/icon.png
+    logo: files/favicon.ico
     title: "Andrea De Angelis"
     search: true
     collapse: true # Better mobile experience
